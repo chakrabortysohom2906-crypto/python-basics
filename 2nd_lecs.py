@@ -1,4 +1,4 @@
-# # Second lectur
+# # Second lectur in python
 # str1 = "this is my secon lecture.\ni studied from apna collage."
 # print(str1)
 # print(len(str1))

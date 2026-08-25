@@ -1,4 +1,4 @@
-# First lecture
+# First lecture in python
 # print
 # print ("my name is sohom.")
 # print("my age is 20.")
