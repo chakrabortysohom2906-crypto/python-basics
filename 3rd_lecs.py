@@ -1,3 +1,4 @@
+# third lecture
 # marks = [95,76,90,32,40,99]
 # print(marks)
 # print(marks[2])
