@@ -108,6 +108,17 @@
 # print(dictionary)
 
 # you are given a list of subjects for students.Assume one classroom is required for 1 subjects.How many classroom are needed by all students.
-subjects = {"python","java","c++","python","javascript","java","python","java","c++","c"}
-print(type(subjects))
-print(len(subjects))
+# subjects = {"python","java","c++","python","javascript","java","python","java","c++","c"}
+# print(type(subjects))
+# print(len(subjects)) 
+
+# first = float(input("first:"))
+# second = int(input("secind:"))
+# sum=first+second
+# print("sum:")
+
+# i = 1
+# while i<=10:
+#     print("hello")
+#     i=i+1
+
